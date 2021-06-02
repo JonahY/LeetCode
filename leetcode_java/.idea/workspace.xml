@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8f6083-7194-4783-b0c2-31b64c1fbb9c" name="Default Changelist" comment="" />
+    <list default="true" id="ab8f6083-7194-4783-b0c2-31b64c1fbb9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/64. 最小路径和.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/64. 最小路径和.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/65. 有效数字.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/65. 有效数字.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/70. 爬楼梯.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/70. 爬楼梯.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/72. 编辑距离.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/72. 编辑距离.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/UniquePathsII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/UniquePathsII/UniquePathsII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII_63/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII/UniquePathsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII_63/UniquePathsII.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +26,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1tHwsoyTYC62Hux72qgLxlqYTjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/leetcode/DFA/ValidNumber_65" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,6 +54,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yuan\Desktop\LeetCode\leetcode_java\src\leetcode\DFA\ValidNumber_65" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,20 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.WildcardMatching_44.Solution" />
-      <module name="leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dp.WildcardMatching_44.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.dp.MaximumSubarray_53.Solution" />
       <module name="leetcode_java" />
@@ -89,11 +100,24 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePathsII.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.MinimumPathSum_64.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.UniquePathsII.*" />
+          <option name="PATTERN" value="leetcode.dp.MinimumPathSum_64.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.ClimbingStairs_70.Solution" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.dp.ClimbingStairs_70.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +126,24 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.RegularExpressionMatching_10.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePathsII_63.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.RegularExpressionMatching_10.*" />
+          <option name="PATTERN" value="leetcode.dp.UniquePathsII_63.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.EditDistance_72.Solution" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.dp.EditDistance_72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,10 +186,22 @@
       <updated>1622439531951</updated>
       <workItem from="1622439537769" duration="5275000" />
       <workItem from="1622522432772" duration="8869000" />
+      <workItem from="1622611930932" duration="5854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,6 +1,4 @@
-package leetcode.dp.UniquePathsII;
-
-import java.util.Arrays;
+package leetcode.dp.UniquePathsII_63;
 
 public class UniquePathsII {
     private int res = 0;
