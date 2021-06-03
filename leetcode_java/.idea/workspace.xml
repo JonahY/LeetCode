@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8f6083-7194-4783-b0c2-31b64c1fbb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dp/64. 最小路径和.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/64. 最小路径和.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dp/65. 有效数字.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/65. 有效数字.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dp/70. 爬楼梯.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/70. 爬楼梯.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dp/72. 编辑距离.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/72. 编辑距离.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/877. 石子游戏.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/877. 石子游戏.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/UniquePathsII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/UniquePathsII/UniquePathsII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII_63/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII/UniquePathsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/UniquePathsII_63/UniquePathsII.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +64,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.MaximumSubarray_53.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.StoneGame_877.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.MaximumSubarray_53.*" />
+          <option name="PATTERN" value="leetcode.dp.StoneGame_877.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePaths_62.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.LongestCommonSubsequence_1143.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.UniquePaths_62.*" />
+          <option name="PATTERN" value="leetcode.dp.LongestCommonSubsequence_1143.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +179,7 @@
       <workItem from="1622439537769" duration="5275000" />
       <workItem from="1622522432772" duration="8869000" />
       <workItem from="1622611930932" duration="5854000" />
+      <workItem from="1622698207363" duration="4004000" />
     </task>
     <servers />
   </component>
@@ -198,7 +191,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
