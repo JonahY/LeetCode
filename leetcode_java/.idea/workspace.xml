@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ab8f6083-7194-4783-b0c2-31b64c1fbb9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Heap/767.重构字符串.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/767.重构字符串.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/778.水位上升的泳池中游泳.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/778.水位上升的泳池中游泳.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/786.第 K 个最小的素数分数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/786.第 K 个最小的素数分数.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/LongestCommonSubsequence_1143/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/dp/LongestCommonSubsequence_1143/LongestCommonSubsequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +59,19 @@
       <recent name="C:\Users\Yuan\Desktop\LeetCode\leetcode_java\src\leetcode\DFA\ValidNumber_65" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.dp.StoneGame_877.Solution" />
       <module name="leetcode_java" />
@@ -82,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.MinimumPathSum_64.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.ReorganizeString_767.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.MinimumPathSum_64.*" />
+          <option name="PATTERN" value="leetcode.heap.ReorganizeString_767.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.SwiminRisingWater_778.Solution" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.heap.SwiminRisingWater_778.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,24 +125,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.ClimbingStairs_70.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.KthSmallestPrimeFraction_786.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.ClimbingStairs_70.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePathsII_63.Solution" />
-      <module name="leetcode_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dp.UniquePathsII_63.*" />
+          <option name="PATTERN" value="leetcode.heap.KthSmallestPrimeFraction_786.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,28 +163,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -195,11 +200,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
