@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8f6083-7194-4783-b0c2-31b64c1fbb9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Heap/871.最低加油次数  .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/871.最低加油次数  .ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/heap/MinimumCosttoHireKWorkers_857/MinimumCosttoHireKWorkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_java/leetcode/heap/MinimumCosttoHireKWorkers_857/MinimumCosttoHireKWorkers.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.heap.MinimumCosttoHireKWorkers_857.Solution" />
       <module name="leetcode_java" />
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.heap.SwiminRisingWater_778.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.MinimumNumberofRefuelingStops_871.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.heap.SwiminRisingWater_778.*" />
+          <option name="PATTERN" value="leetcode.heap.MinimumNumberofRefuelingStops_871.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.heap.KthSmallestPrimeFraction_786.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.ReachableNodesInSubdividedGraph_882.Solution" />
       <module name="leetcode_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.heap.KthSmallestPrimeFraction_786.*" />
+          <option name="PATTERN" value="leetcode.heap.ReachableNodesInSubdividedGraph_882.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (6)" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +177,7 @@
       <workItem from="1622698207363" duration="4004000" />
       <workItem from="1622801821374" duration="1842000" />
       <workItem from="1623302718446" duration="4747000" />
+      <workItem from="1623588031177" duration="4418000" />
     </task>
     <servers />
   </component>
